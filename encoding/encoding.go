@@ -15,7 +15,7 @@
  * limitations under the License.
  *
  */
-
+//已完成，encoding
 // Package encoding defines the interface for the compressor and codec, and
 // functions to register and retrieve compressors and codecs.
 //

@@ -15,6 +15,7 @@
  * limitations under the License.
  *
  */
+//已读，定义了baseCodec的接口以及相关的函数，很多是基于encodeing来进行继承的
 
 package grpc
 

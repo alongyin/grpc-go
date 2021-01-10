@@ -15,6 +15,7 @@
  * limitations under the License.
  *
  */
+//已读
 
 package grpc
 
@@ -58,6 +59,7 @@ const (
 	grpclbName = "grpclb"
 )
 
+//用于声明全局变量
 var (
 	// ErrClientConnClosing indicates that the operation is illegal because
 	// the ClientConn is closing.

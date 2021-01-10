@@ -17,6 +17,7 @@
  */
 
 // Package main implements a server for Greeter service.
+//服务开始的地方
 package main
 
 import (
